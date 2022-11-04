@@ -1,0 +1,52 @@
+#intestazione {
+ width: 100%;
+ background-color: beige;
+ font-size: 50px;
+ padding-top: 10px;
+ padding-bottom: 10;
+}
+
+p {
+  margin-bottom:  0 !important;
+}
+
+#fascia {
+background-color:  beige;
+padding: 10px;
+border: 1px solid black;
+}
+
+.sport {
+font-size: 30px;
+margin-top: 0;
+}
+
+
+
+.riga {
+ display: flex;
+}
+.colonna {
+  flex: 50%;
+}
+
+.colonna33 {
+  flex: 33.33%;
+  padding:10px;
+}
+
+.audio {
+  padding: 10px;
+}
+
+.prima {
+ background-color: darkgrey;
+}
+
+.seconda {
+  background-color:  grey;
+}
+#profilo {
+  height:  250px;
+
+}
